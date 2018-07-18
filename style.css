@@ -1,0 +1,33 @@
+body {
+    padding: 10px 0;
+}
+
+.jumbotron {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.lead {
+    font-size: 25px;
+}
+
+tr {
+    border-bottom: 1px solid #cccccc;
+}
+
+tr>td {
+    padding: 7px 0;
+}
+
+tr>th {
+    padding-bottom: 7px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+tr:last-of-type {
+    border-bottom: none;
+}
+
